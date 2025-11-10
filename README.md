@@ -9,7 +9,7 @@ Shift Baru: F
 
 ## ⚙️ Cara Kerja Parsing Data
 1. **User mengisi form** di `form_data.dart`
-   - Data diambil dari `TextEditingController`
+   - Data nama, nim, umur diambil dari `TextEditingController`
    - Umur dihitung otomatis:  
      ```dart
      int umur = DateTime.now().year - tahunLahir;
@@ -39,13 +39,12 @@ Shift Baru: F
 ---
 
 ## 📸 Screenshot
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0633a5d6-6787-47c2-ac29-6e7b839f55e2" width="250" style="margin:15px;">
-  <img src="https://github.com/user-attachments/assets/0a8e952f-f7c6-46e8-b8b3-88149b2a4040" width="250" style="margin:15px;">
+   <img src="https://github.com/user-attachments/assets/1811e3f3-4d72-44a2-8d2f-b7fa6123ed79" width="250" style="margin:15px;">
+   <img src="https://github.com/user-attachments/assets/f0dfdcd7-abc1-427f-9deb-c984cdfea2f6" width="250" style="margin:15px;">
 </p>
 
 ---
 
 ## 🎥 Demo Aplikasi
-https://github.com/user-attachments/assets/2d00881b-f99b-4785-aeea-606adaa73a96
+https://github.com/user-attachments/assets/084869aa-82c9-4a66-8162-b33d6f07ebcc
