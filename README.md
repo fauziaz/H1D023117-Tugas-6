@@ -1,4 +1,4 @@
-# Flutter Passing Data
+# Flutter Parsing Data
 
 Nama: Fauzia Azahra Depriani  
 NIM: H1D023117  
@@ -48,3 +48,4 @@ Shift Baru: F
 
 ## 🎥 Demo Aplikasi
 https://github.com/user-attachments/assets/084869aa-82c9-4a66-8162-b33d6f07ebcc
+
